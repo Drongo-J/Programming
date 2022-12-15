@@ -1,0 +1,16 @@
+﻿<Window x:Class="BindingToXml.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Binding To XML" Height="157" Width="300">
+    <StackPanel>
+        <StackPanel.Resources>
+            <XmlDataProvider x:Key="club1" XPath="/football" Source="Clubs.xml">            
+            </XmlDataProvider>
+        </StackPanel.Resources>
+        <ListBox>
+            <ListBox.ItemsSource>
+                <Binding Source="{StaticResource club1}" XPath="club[child::country='Англия']"/>
+            </ListBox.ItemsSource>
+        </ListBox>
+    </StackPanel>
+</Window>

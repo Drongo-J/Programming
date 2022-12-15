@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RoutedEvents">
+</Property><Property Name="Solution File" Value="C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\RoutedEvents.sln">
+</Property><Property Name="User Options File" Value="C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\RoutedEvents.suo">
+</Property><Property Name="Date" Value="6 сентября 2011 г.">
+</Property><Property Name="Time" Value="14:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RoutedEvents.sln" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\RoutedEvents.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RoutedEvents.suo" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\RoutedEvents.suo">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="RoutedEvents.csproj" Description="Project file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\RoutedEvents.csproj">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="App.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Focus.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Focus.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="KeyModifiers.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\KeyModifiers.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="KeyPressEvents.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\KeyPressEvents.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Menu.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Menu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="MousePosition.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\MousePosition.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="OnlyNumbers.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\OnlyNumbers.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="BubbledLabelClick.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\BubbledLabelClick.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="TunneledKeyPress.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\TunneledKeyPress.xaml.cs">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="happyface.jpg" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\happyface.jpg">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="App.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Focus.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Focus.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="KeyModifiers.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\KeyModifiers.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="KeyPressEvents.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\KeyPressEvents.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="Menu.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="BubbledLabelClick.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\BubbledLabelClick.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="MousePosition.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\MousePosition.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="OnlyNumbers.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\OnlyNumbers.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="TunneledKeyPress.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\Backup\TunneledKeyPress.xaml">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="RoutedEvents.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RoutedEvents" Source="RoutedEvents.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RoutedEvents.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RoutedEvents.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RoutedEvents" Source="RoutedEvents.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Ahme_if16\source\repos\Project X239\Project X239\Source.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project X239.vcxproj -> C:\Users\Ahme_if16\source\repos\Project X239\Debug\Project X239.exe

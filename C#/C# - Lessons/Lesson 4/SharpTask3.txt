@@ -1,0 +1,193 @@
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace String_class
+{
+
+    // struct Point
+    //{
+    //    public int x;
+    //    public int y;
+    //}
+    //class Point
+    //{
+    //    public int x;
+    //    public int y;
+    //}
+
+    //public class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        // Point point = new Point();
+    //        //point.x = 100;
+    //        //Point[]points=new Point[10];
+    //        //points[0] = new Point();
+    //        //Console.WriteLine(points[0].x);
+
+
+    //    }
+    //}
+
+
+    //class Student
+    //{
+    //    private int age;
+    //    private string name;
+    //    private string surname;
+
+    //    public Student(int age, string name, string surname)
+    //    {
+    //        this.age = age;
+    //        this.name = name;
+    //        this.surname = surname;
+    //    }
+    //    //public int GetAge()
+    //    //{
+    //    //    return age;
+    //    //}
+    //    public int GetAge() => age;
+    //    public void SetAge(int age)
+    //    {
+    //        this.age = age;
+    //    }
+    //}
+
+    // class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Student student=new Student(23,"Elvin","Camalzade");
+    //        student.SetAge(30);
+    //        var age=student.GetAge();
+    //        Console.WriteLine(age);
+    //    }
+    //}
+
+
+
+
+    //class Teacher
+    //{
+    //    public int Salary { get; protected set; }       //auto property
+    //    //private int salary;
+
+    //    //public int Salary   //fullproperty
+    //    //{
+    //    //    get { return salary; }
+    //    //    set
+    //    //    {
+    //    //        if (value > 0)
+    //    //        {
+    //    //            salary = value;
+    //    //        }
+    //    //    }
+    //    //}
+
+    //    public Teacher(int salary)
+    //    {
+    //        Salary = salary;
+    //    }
+    //}
+    //class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Teacher teacher = new Teacher(100);
+    //        //teacher.Salary = -100;
+    //        Console.WriteLine(teacher.Salary);
+    //    }
+    //}
+
+
+
+    class Student
+    {
+
+
+        public Student(int id, string name)
+        {
+            Id = id;
+            Name = name;
+        }
+
+        public Student(int id, string name, string surname, int age)
+            : this(id, name)
+        {
+            Surname = surname;
+            Age = age;
+        }
+        public int Age { get; set; }
+        public int Id { get; set; } = default;
+        public string Name { get; set; } = "No Name";
+        public string Surname { get; set; } = "No Surname";
+
+        public int GetBirthYear() => DateTime.Now.Year - Age;
+
+
+        public void Show()
+        {
+            Console.WriteLine($"ID : {Id}");
+            Console.WriteLine($"Name : {Name}");
+            Console.WriteLine($"Surname : {Surname}");
+            Console.WriteLine($"Age : {Age}");
+        }
+
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Student student = new Student(1,"Elvin","Camalzade",23);
+            //Console.WriteLine(student.GetBirthYear());
+            //student.Show();
+
+
+            //Student student = new Student
+            //{
+            //    Id = 1,
+            //    Name = "Elvin",
+            //    Surname = "Camalzade",
+            //    Age = 23
+            //};
+            //student.Show();
+
+
+
+            //Student student = new Student(id:100,name:"Jale",surname:"Jaleli",age:30);
+            //student.Show();
+
+            //class Car  =>id  volume  model  vendor  produceYear
+            ////Show  , GetCarAge();
+            ///
+
+            /*
+             Point class yazilsin
+1.x,y fieldleri olsun ve her bir field uchun yazilsin,
+constructor parametric , default
+ShowData method yazilsin
+
+Counter c(0,100);//min,max,currentData
+c.increment();
+cout<<getCurrent();//1
+c.increment();
+cout<<getCurrent();//2
+2.Rəqəmsal sayğac məhdud diapazonlu dəyişəndir. Onun tam qiyməti təyin edilmiş maksimum qiymət həddinə
+ (məsələn, k 0-100 diapazonunda qiymət alır) çatdığı zaman sıfırlanır.
+Bu cür sayğacın parametri kimi rəqəmsal saatı, kilometrölçən sayğacı nümunə göstərmək olar.
+ Bu cür sayğac üçün sinfi təyin edin. Maksimal və minimal qiymətlərin verilməsini,
+sayğacın qiymətinin 1 vahid artırılmasını, cari qiymətin qaytarılmasını təmin edin.
+
+
+4.Fraction(kesr)calculator tapshirigi
+
+*/
+        }
+    }
+}

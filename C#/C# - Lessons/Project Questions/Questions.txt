@@ -1,0 +1,40 @@
+1.Net nedir?
+2.CLR (common language runtime) nedir?
+3.CTS (common type system),CLS (common language specification);
+4.FCL (BCL) nedir?
+5.Data Types haqqinda ?
+4.Anonim Type nedir?hansilar ar ?ferqleri nedir?
+6.Value And Reference type?
+7.Type casting haqqinda , hansilar var?
+8.Hansi arraylar var? ne ferqleri var?1 olchulu , chox olchulu
+9.Metadata , manifest ,assembly nedir ?
+10.Access modifiers ? 
+11.Static constructor?
+12.Passing argument to method.
+13.Partial klas nedir?nece yazilir ? ne meqsedle?
+14.Try,catch,finally,throw nedir?
+15.Exception filters nedir?
+16.Inheritance mechanism in C# ?
+17.Sealed class,methods ?
+18.Virtual method?
+19.Abstract class?Abstract method?
+20.Interface nedir?
+21.Class ve Struct ferqi ?
+22.Delegate , Event ?
+23.Anonim Method , lambda expression , extention method?
+24.FUNC , ACTION ,PREDICATE ?
+25.GENERIC AND NON-GENERIC ?
+26.Iterator nedir ?
+27.Lifecycle of objects?
+28.LINQ nedir ?
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\FileHelper.h(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\FileHelper.h(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\FileHelper.h(110,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\FileHelper.h(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Functions.h(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Functions.h(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Functions.h(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Functions.h(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Functions.h(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\RentCar\RentCar\Source.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RentCar.vcxproj -> C:\Users\e.camalzade\source\repos\RentCar\Debug\RentCar.exe

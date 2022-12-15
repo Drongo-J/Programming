@@ -1,0 +1,4 @@
+1) In the meal section add see meal photo (https://www.youtube.com/watch?v=NNYMDkRnGU8)
+2) Lock Screen In The Menu
+3) At the end change showing meal (GetLength of console then, according to length show meals), add AddMeals(), DeleteMeals();
+4) vaxtin olsa rating elave et (order den sonraya)

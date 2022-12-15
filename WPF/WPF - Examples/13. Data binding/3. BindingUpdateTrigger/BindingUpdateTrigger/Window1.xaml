@@ -1,0 +1,15 @@
+﻿<Window x:Class="BindingUpdateTrigger.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Update Source Trigger" Height="173" Width="300">
+    <StackPanel>
+        <ListBox x:Name="clubList" SelectedIndex="1">
+            <ListBoxItem>Динамо Киев</ListBoxItem>
+            <ListBoxItem>Черноморец Одесса</ListBoxItem>
+            <ListBoxItem>Днепр Днепропетровск</ListBoxItem>
+            <ListBoxItem>Металлист Харьков</ListBoxItem>
+            <ListBoxItem>Шахтёр Донецк</ListBoxItem>
+        </ListBox>
+        <TextBox Text="{Binding ElementName=clubList, Path=SelectedItem.Content, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+    </StackPanel>
+</Window>

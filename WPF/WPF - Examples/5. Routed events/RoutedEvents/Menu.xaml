@@ -1,0 +1,16 @@
+﻿<Window x:Class="RoutedEvents.Menu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Menu" Height="182" Width="237" Visibility="Visible">
+    <Grid>
+      <StackPanel Margin="5" Button.Click="ButtonClick" Focusable="False">
+        <Button>BubbledLabelClick</Button>
+        <Button>TunneledKeyPress</Button>
+            <Button>KeyPressEvents</Button>
+        <Button>OnlyNumbers</Button>
+        <Button>KeyModifiers</Button>
+            <Button>MousePosition</Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,67 @@
+
+class Exception{};
+
+class DatabaseException:public Exception{};
+class InvalidArgumentException:public Exception{};
+
+class User {
+	string username;
+	string password;
+	string name;
+	string surname;
+public:
+	void show()const;
+};
+
+class RegistrationValidations {
+public:
+	static bool isGreater6Character(const string& text) {
+		if (text.length() > 6)
+			return true;
+		return false;
+	}
+};
+
+class Database {
+	User** users;
+	int user_count = 0;
+public:
+	User** getUsers() {
+		return users;
+	}
+	void addUser(const User& user);
+	User* getUserByUsername(string username);
+	void updateuser(User& olduser, const User& newuser) {
+		auto user = getUserByUsername(olduser.getUsername());
+		user = &newuser;
+	}
+};
+
+
+class Registration {
+	Database _database;
+public:
+	Registration(const Database& database)
+	{
+		_database = database;
+
+	}
+
+	//eger username de istifadechi yoxdusa , exception atsin
+	//eger username varsa amma password yoxdusa ,exception atsin
+	void signIn(string username, string password);
+//	//Eger istifadechi varsa hemen usernamede throw DatabaseException
+//	//Eger username xarakter sayi 6 dan kichikdirse InvalidArgumentException
+//	//Eger username ilk herf kichikdirse InvalidArgumentException
+//	//Eger password xarakter sayi 6 dan kichikdirse InvalidArgumentException
+//	//Eger name xarakter sayi 4 dan kichikdirse InvalidArgumentException
+//	//Eger surname xarakter sayi 4 dan kichikdirse InvalidArgumentException
+	void signUp(string username, string password, string name, string surname);
+};
+
+
+
+
+
+
+

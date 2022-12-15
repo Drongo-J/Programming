@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Clubs.xslt" ?>
+<football>
+  <club>
+    <name>Арсенал</name>
+    <city>Лондон</city>
+    <country>Англия</country>
+  </club>
+  <club>
+    <name>Динамо</name>
+    <city>Киев</city>
+    <country>Украина</country>
+  </club>
+  <club>
+    <name>Шахтер</name>
+    <city>Донецк</city>
+    <country>Украина</country>
+  </club>
+  <club>
+    <name>Барселона</name>
+    <city>Барселона</city>
+    <country>Испания</country>
+  </club>
+  <club>
+    <name>Манчестер Юнайтед</name>
+    <city>Манчестер</city>
+    <country>Англия</country>
+  </club>
+</football>

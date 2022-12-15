@@ -1,0 +1,24 @@
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\bin\Debug\3DTools.dll
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\bin\Debug\3DTools.pdb
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csprojAssemblyReference.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\Trackport3D.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\Trackport3D.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools_MarkupCompile.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.g.resources
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\_3DTools.Properties.Resources.resources
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csproj.GenerateResource.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csproj.CoreCompileInputs.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.dll
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\bin\Debug\3DTools.dll
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\bin\Debug\3DTools.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csproj.AssemblyReference.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\Trackport3D.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\Trackport3D.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools_MarkupCompile.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.g.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\_3DTools.Properties.Resources.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csproj.GenerateResource.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.dll
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\3DTools\obj\Debug\3DTools.pdb

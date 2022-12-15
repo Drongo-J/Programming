@@ -1,0 +1,78 @@
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\bin\Debug\test.mpg
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\bin\Debug\DrawingIn3D.exe
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\bin\Debug\DrawingIn3D.pdb
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\bin\Debug\3DTools.dll
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\bin\Debug\3DTools.pdb
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csprojAssemblyReference.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\AnimatedRing.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\VideoIn3D.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\ElementsIn3D.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TrackballRing.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\HitTesting.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Materials.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonIn3D.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\CubeMesh.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Menu.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\OneTriangleMesh.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonResources.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TextureMapping.baml
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\AnimatedRing.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\VideoIn3D.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\ElementsIn3D.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TrackballRing.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\HitTesting.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Materials.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonIn3D.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\CubeMesh.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Menu.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\OneTriangleMesh.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TextureMapping.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\App.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D_Content.g.cs
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D_MarkupCompile.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.g.resources
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.Properties.Resources.resources
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.GenerateResource.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.CoreCompileInputs.cache
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.CopyComplete
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.exe
+C:\Users\e.camalzade\Desktop\New folder\Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\bin\Debug\test.mpg
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\bin\Debug\DrawingIn3D.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\bin\Debug\DrawingIn3D.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\bin\Debug\3DTools.dll
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\bin\Debug\3DTools.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.AssemblyReference.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\AnimatedRing.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\VideoIn3D.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\ElementsIn3D.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TrackballRing.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\HitTesting.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Materials.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonIn3D.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\CubeMesh.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Menu.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\OneTriangleMesh.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonResources.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TextureMapping.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\AnimatedRing.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\VideoIn3D.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\ElementsIn3D.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TrackballRing.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\HitTesting.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Materials.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\PersonIn3D.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\CubeMesh.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\Menu.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\OneTriangleMesh.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\TextureMapping.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\App.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D_Content.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D_MarkupCompile.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.g.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.Properties.Resources.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.GenerateResource.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.csproj.CopyComplete
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF - Examples\16. 3D\3D\DrawingIn3D\obj\Debug\DrawingIn3D.pdb

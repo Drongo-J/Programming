@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top">
+            <Button MinWidth="30">1</Button>
+            <Button MinWidth="30">2</Button>
+            <Button MinWidth="30">3</Button>
+            <Button MinWidth="30">4</Button>
+            <Button MinWidth="30">5</Button>
+            <Button MinWidth="30">6</Button>
+            <Button MinWidth="30">7</Button>
+            <Button MinWidth="30">8</Button>
+            <Button MinWidth="30">9</Button>
+            <Button MinWidth="30">10</Button>
+            <Button MinWidth="30">11</Button>
+            <Button MinWidth="30">12</Button>
+            <Button MinWidth="30">13</Button>
+            <Button MinWidth="30">14</Button>
+            <Button MinWidth="30">15</Button>
+        </WrapPanel>
+        <StackPanel HorizontalAlignment="Center"
+                    DockPanel.Dock="Bottom"
+                    Orientation="Horizontal">
+            <Button Margin="3">Да я уверен</Button>
+            <Button Margin="3">Нет, я не согласен</Button>
+        </StackPanel>
+        <TextBox Margin="3">Это простой текстовый блок</TextBox>
+    </DockPanel>
+
+</Window>

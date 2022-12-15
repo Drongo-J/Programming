@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ControlTemplates">
+</Property><Property Name="Solution File" Value="C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\ControlTemplates.sln">
+</Property><Property Name="User Options File" Value="C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\ControlTemplates.suo">
+</Property><Property Name="Date" Value="11 сентября 2011 г.">
+</Property><Property Name="Time" Value="16:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ControlTemplates.sln" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ControlTemplates.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ControlTemplates.suo" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ControlTemplates.suo">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Project file successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ControlTemplates.csproj">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj.user" Description="Project user file successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ControlTemplates.csproj.user">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="App.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ButtonTemplate.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ButtonTemplate.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="SimpleCustomButton.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\SimpleCustomButton.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="SimpleShapedButton.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\SimpleShapedButton.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Menu.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Menu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="GradientButtonTest.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\GradientButtonTest.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="App.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ButtonTemplate.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\ButtonTemplate.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="SimpleCustomButton.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\SimpleCustomButton.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Resources\GradientButtonVariant.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Resources\GradientButtonVariant.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Resources\GradientButton.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Resources\GradientButton.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="SimpleShapedButton.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\SimpleShapedButton.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Menu.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="GradientButtonTest.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\ControlTemplates\Backup\GradientButtonTest.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ControlTemplates.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ControlTemplates.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

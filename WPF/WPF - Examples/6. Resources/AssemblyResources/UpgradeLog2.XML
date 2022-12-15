@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AssemblyResources">
+</Property><Property Name="Solution File" Value="C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\AssemblyResources.sln">
+</Property><Property Name="User Options File" Value="C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\AssemblyResources.suo">
+</Property><Property Name="Date" Value="9 сентября 2011 г.">
+</Property><Property Name="Time" Value="14:58">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AssemblyResources.sln" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\AssemblyResources.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AssemblyResources.suo" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\AssemblyResources.suo">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="AssemblyResources.csproj" Description="Project file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\AssemblyResources.csproj">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="AssemblyResources.csproj.user" Description="Project user file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\AssemblyResources.csproj.user">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="App.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Window1.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Sounds\ding.wav" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Sounds\ding.wav">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Sounds\start.wav" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Sounds\start.wav">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="App.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="Window1.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\AssemblyResources\Backup\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="AssemblyResources.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AssemblyResources" Source="AssemblyResources.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AssemblyResources.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AssemblyResources.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AssemblyResources" Source="AssemblyResources.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

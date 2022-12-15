@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Resources Example">
+</Property><Property Name="Solution File" Value="C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Resources Example.sln">
+</Property><Property Name="User Options File" Value="C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Resources Example.suo">
+</Property><Property Name="Date" Value="9 сентября 2011 г.">
+</Property><Property Name="Time" Value="15:07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Resources Example.sln" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Resources Example.suo" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example.suo">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Resources Example.csproj" Description="Project file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Resources Example.csproj">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\App.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Window1.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\DynamicResource.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\DynamicResource.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\TwoResources.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\TwoResources.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\WindowResource.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\WindowResource.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Properties\Settings.settings" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Properties\Resources.resx" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\App.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\App.xaml">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\DynamicResource.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\DynamicResource.xaml">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\TwoResources.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\TwoResources.xaml">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Window1.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\WindowResource.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\7. Ресурсы\Resources Example\Backup\Resources Example\WindowResource.xaml">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Resources Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Resources Example" Source="Resources Example\Resources Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Resources Example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Resources Example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Resources Example" Source="Resources Example\Resources Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

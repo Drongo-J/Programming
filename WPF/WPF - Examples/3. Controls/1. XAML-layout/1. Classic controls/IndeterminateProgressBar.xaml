@@ -1,0 +1,17 @@
+﻿<Window x:Class="ClassicControls.IndeterminateProgressBar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="IndeterminateProgressBar" Height="300" Width="300"
+    >
+    <StackPanel Margin="5">
+      <ProgressBar Height="10"  IsIndeterminate="True" Foreground="#FF013AD3">
+            <ProgressBar.Background>
+                <LinearGradientBrush EndPoint="1,0" StartPoint="0,0">
+                    <GradientStop Color="#FFBABABA" Offset="0"/>
+                    <GradientStop Color="#FFC7C7C7" Offset="0.5"/>
+                    <GradientStop Color="#FFCF3E3E" Offset="1"/>
+                </LinearGradientBrush>
+            </ProgressBar.Background>
+        </ProgressBar>
+    </StackPanel>
+</Window>

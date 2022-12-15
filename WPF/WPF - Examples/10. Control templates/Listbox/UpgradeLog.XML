@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ControlTemplates">
+</Property><Property Name="Solution File" Value="C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\ControlTemplates.sln">
+</Property><Property Name="User Options File" Value="C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\ControlTemplates.suo">
+</Property><Property Name="Date" Value="11 сентября 2011 г.">
+</Property><Property Name="Time" Value="16:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ControlTemplates.sln" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\ControlTemplates.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ControlTemplates.suo" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\ControlTemplates.suo">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Project file successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\ControlTemplates.csproj">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj.user" Description="Project user file successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\ControlTemplates.csproj.user">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="App.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="MultiPartTemplates.xaml.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\MultiPartTemplates.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="App.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="Resources\ListBox.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\Resources\ListBox.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="MultiPartTemplates.xaml" Description="File successfully backed up as C:\Учебный процесс\WPF\Шаблоны элементов управления\Listbox\Backup\MultiPartTemplates.xaml">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ControlTemplates.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ControlTemplates.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ControlTemplates" Source="ControlTemplates.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

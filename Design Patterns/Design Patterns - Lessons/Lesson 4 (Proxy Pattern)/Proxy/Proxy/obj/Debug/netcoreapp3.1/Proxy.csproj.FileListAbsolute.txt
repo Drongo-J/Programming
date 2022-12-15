@@ -1,0 +1,40 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\FSDE_2912_az-master\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\e.camalzade\Desktop\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

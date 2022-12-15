@@ -1,0 +1,42 @@
+Tesevvur edek ele bir proqram yaziriq ki bu proqram sayesinde istifadeci istediyi tarixde istediyi hekimin qebuluna yazila biler
+
+Esas sertler asagdakilardir.
+
+1. Xestexanin uc sobesi var:
+   - Pediatriya
+   - Travmatologiya
+   - Stamotologiya
+
+2. Her sobede hekim sayi ferqlidir (3,2,4)
+   - Hekimin asagdaki parametrleri var	
+   + Adi
+   + Soyadi
+   + Is tecrubesi (il olaraq)    
+
+3. Her hekimin de gun erzinde 3 qebul saati var:
+   + 09:00-11:00
+   + 12:00-14:00
+   + 15:00-17:00
+
+
+Proqrami ise salanda:
+1. User oz melumatlarini daxil edir (Ad, Soyad, Email, Telefon) 
+2. 3 sobeden birini secir
+3. Hemen sobede isleyen bir hekimi secir
+4. Hansi saati rezerv elemek isteyirse onu secir. (saatlarin yaninda rezerv olunub ve ya olunmayib yazilmalidir). Baslangic olaraq
+butun saatlarin qabaginda rezerv olunmayib yazilir. Rezerv olunmus tarixi secse yazilmalidir hemen vaxt artiq rezerv olunub zehmet
+olmasa basqa bir vaxt secin. Yene de secim sansi verir proqram dayanmir(rekursiya)
+
+Vaxti rezerv edenden sonra yazilir ki tesekkurler Eli Eliyev siz saat 12:00 de Hesen hekimin qebuluna yazildiniz. Proqram qayidir en basa. Yeni User yaradib
+qebula yazilmaq istedikde artiq Hesen hekimin 12:00-14:00 ucun olan tarixinin qabagina rezerv olunub yazilmalidir
+
+
+*Bu merheleni bitirenler eger daha da qelizlesdirmek istese. Onda tarixlerle islesinler. Yeni istifadeci birinci tarixi sececek sonra 
+hemen tarixden saat sececek. 
+
+Demo olaraq asagdaki linke baxa bilersiniz ama orda saatlar yoxdu kankret tarix var. Ama biz saatlari da yazmaliyiq.
+
+http://www.msh.az/view.php?lang=az&menu=randevu
+
+PS. Tesevvur edin ki kurs isi yazirsiniz bacardiginiz qeder detalli isleyin. Tam rahatsiniz neden istiyiriniz istifade ede bilersiniz
+try catch ler yaddan cixmasin. Bu proqrami yazmaq ucun lazim olan her seyi kecmisik artiq.

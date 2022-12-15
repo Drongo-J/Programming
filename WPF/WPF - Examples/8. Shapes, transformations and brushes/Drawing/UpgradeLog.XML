@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Drawing">
+</Property><Property Name="Solution File" Value="C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Drawing.sln">
+</Property><Property Name="User Options File" Value="C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Drawing.suo">
+</Property><Property Name="Date" Value="12 сентября 2011 г.">
+</Property><Property Name="Time" Value="11:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Drawing.sln" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Drawing.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Drawing.suo" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Drawing.suo">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Drawing.csproj" Description="Project file successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Drawing.csproj">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Drawing.csproj.user" Description="Project user file successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Drawing.csproj.user">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="App.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="BitmapEffects.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\BitmapEffects.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="DashedLines.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\DashedLines.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="FillModes.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\FillModes.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Gradients.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Gradients.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="GradientText.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\GradientText.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="ImageBrushes.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\ImageBrushes.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="InsideOutsideFill.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\InsideOutsideFill.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="LineCaps.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\LineCaps.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="LineJoins.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\LineJoins.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="PixelSnapping.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\PixelSnapping.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="PolylinesAndPolygons.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\PolylinesAndPolygons.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Menu.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Menu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RadialGradient.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RadialGradient.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="OpacityMask.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\OpacityMask.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Reflection.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Reflection.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RotateElement.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RotateElement.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RotateShape.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RotateShape.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RoundedRectangles.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RoundedRectangles.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Shapes.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Shapes.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="TileFlip.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\TileFlip.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="TileTypes.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\TileTypes.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="ViewboxResize.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\ViewboxResize.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="VisualBrush.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\VisualBrush.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="App.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="BitmapEffects.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\BitmapEffects.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="DashedLines.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\DashedLines.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="FillModes.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\FillModes.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Gradients.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Gradients.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="GradientText.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\GradientText.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="ImageBrushes.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\ImageBrushes.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="InsideOutsideFill.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\InsideOutsideFill.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="LineCaps.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\LineCaps.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="LineJoins.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\LineJoins.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="PixelSnapping.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\PixelSnapping.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="PolylinesAndPolygons.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\PolylinesAndPolygons.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Menu.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RadialGradient.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RadialGradient.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="OpacityMask.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\OpacityMask.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Reflection.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Reflection.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RotateElement.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RotateElement.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RotateShape.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RotateShape.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="RoundedRectangles.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\RoundedRectangles.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Shapes.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\Shapes.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="TileFlip.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\TileFlip.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="TileTypes.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\TileTypes.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="ViewboxResize.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\ViewboxResize.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="VisualBrush.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\WPF Matthew MacDonald\Chapter13\Drawing\Backup\VisualBrush.xaml">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Drawing.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Drawing" Source="Drawing.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Drawing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Drawing.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Drawing" Source="Drawing.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

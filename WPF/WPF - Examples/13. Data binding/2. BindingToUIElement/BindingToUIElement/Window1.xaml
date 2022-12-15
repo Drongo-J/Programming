@@ -1,0 +1,14 @@
+﻿<Window x:Class="BindingToUIElement.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="BindingToUIElement" Height="300" Width="300">
+    <StackPanel>
+        <ListBox x:Name="colorList" SelectedIndex="1">
+            <ListBoxItem>Red</ListBoxItem>
+            <ListBoxItem>Green</ListBoxItem>
+            <ListBoxItem>Blue</ListBoxItem>
+        </ListBox>
+        <Label Content="{Binding ElementName=colorList, Path=SelectedItem.Content}" />
+        <Rectangle Height="50" Fill="{Binding ElementName=colorList, Path=SelectedItem.Content}"></Rectangle>
+    </StackPanel>
+</Window>

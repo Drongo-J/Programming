@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Styles">
+</Property><Property Name="Solution File" Value="C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Styles.sln">
+</Property><Property Name="User Options File" Value="C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Styles.suo">
+</Property><Property Name="Date" Value="9 сентября 2011 г.">
+</Property><Property Name="Time" Value="16:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Styles.sln" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Styles.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Styles.suo" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Styles.suo">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Styles.csproj" Description="Project file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Styles.csproj">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Styles.csproj.user" Description="Project user file successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Styles.csproj.user">
+</Event><Event ErrorLevel="0" Project="Styles" Source="App.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="AutomaticStyles.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\AutomaticStyles.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="EventSetter.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\EventSetter.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Menu.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Menu.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="ReuseFontWithResources.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\ReuseFontWithResources.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="ReuseFontWithStyles.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\ReuseFontWithStyles.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="SimpleTriggers.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\SimpleTriggers.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="StyleInheritance.xaml.cs" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\StyleInheritance.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Styles" Source="App.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="AutomaticStyles.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\AutomaticStyles.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="EventSetter.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\EventSetter.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Menu.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="ReuseFontWithResources.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\ReuseFontWithResources.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="ReuseFontWithStyles.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\ReuseFontWithStyles.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="SimpleTriggers.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\SimpleTriggers.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="StyleInheritance.xaml" Description="File successfully backed up as C:\Vitaliy\WPF\Примеры\Примеры\8. Стили и триггеры\Styles\Backup\StyleInheritance.xaml">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Styles.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Styles" Source="Styles.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Styles.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Styles.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Styles" Source="Styles.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

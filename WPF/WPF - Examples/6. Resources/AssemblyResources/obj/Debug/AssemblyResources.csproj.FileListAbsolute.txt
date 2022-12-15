@@ -1,0 +1,17 @@
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\bin\Debug\Sounds\start.wav
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\bin\Debug\Sounds\1.avi
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\bin\Debug\Sounds\ding.wav
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\bin\Debug\AssemblyResources.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\bin\Debug\AssemblyResources.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.csproj.AssemblyReference.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\Window1.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\Window1.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\App.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources_Content.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources_MarkupCompile.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.g.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.Properties.Resources.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.csproj.GenerateResource.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\AssemblyResources\obj\Debug\AssemblyResources.pdb

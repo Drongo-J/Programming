@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApplication1.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Expander" Height="300" Width="300">
+    <Grid Name="grid1">
+        <Expander Header="Expander"  Name="expander1" Width="120" IsExpanded="False" ExpandDirection="Down">
+            <StackPanel>
+                <TextBox></TextBox>
+                <Button Content="Click me"></Button>
+            </StackPanel>
+        </Expander>
+    </Grid>
+</Window>

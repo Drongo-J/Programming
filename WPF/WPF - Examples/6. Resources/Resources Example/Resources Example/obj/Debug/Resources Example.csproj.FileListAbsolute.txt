@@ -1,0 +1,19 @@
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\bin\Debug\Resources Example.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\bin\Debug\Resources Example.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.csproj.AssemblyReference.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\DynamicResource.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\TwoResources.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Window1.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\WindowResource.baml
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\DynamicResource.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\TwoResources.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Window1.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\WindowResource.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\App.g.cs
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example_MarkupCompile.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.g.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources_Example.Properties.Resources.resources
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.csproj.GenerateResource.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.exe
+C:\Users\Hafiz\OneDrive\Desktop\Coding\WPF\WPF Examples\6. Resources\Resources Example\Resources Example\obj\Debug\Resources Example.pdb
