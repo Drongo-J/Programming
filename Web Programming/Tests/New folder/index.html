@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My E-Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>My E-portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About</h2>
+        <p>Hello, I'm a developer and I love creating websites and applications. I have experience with HTML, CSS, and
+            JavaScript.</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>My Website</li>
+            <li>Todo List App</li>
+            <li>Weather App</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Copyright &copy; 2022</p>
+    </footer>
+    <canvas id="canvas"></canvas>
+</body>
+
+<script>
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    var particles = [];
+
+    for (var i = 0; i < 5000; i++) {
+        particles.push({
+            x: Math.random() * canvas.width,
+            y: Math.random() * canvas.height,
+            radius: Math.random() * 2 + 1,
+            color: "rgb(" + 1 + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")",
+            speedX: Math.random() * 5 - 2.5,
+            speedY: Math.random() * 5 - 2.5
+        });
+    }
+
+    function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        for (var i = 0; i < particles.length; i++) {
+            var particle = particles[i];
+
+            ctx.beginPath();
+            ctx.arc(particle.x, particle.y, particle.radius, 0, Math.PI * 2);
+            ctx.fillStyle = particle.color;
+            ctx.fill();
+
+            particle.x += particle.speedX;
+            particle.y += particle.speedY;
+
+            if (particle.x - particle.radius > canvas.width) {
+                particle.x = 0 - particle.radius;
+            }
+
+            if (particle.x + particle.radius < 0) {
+                particle.x = canvas.width + particle.radius;
+            }
+
+            if (particle.y - particle.radius > canvas.height) {
+                particle.y = 0 - particle.radius;
+            }
+
+            if (particle.y + particle.radius < 0) {
+                particle.y = canvas.height + particle.radius;
+            }
+        }
+
+        requestAnimationFrame(draw);
+    }
+
+    draw();
+
+    window.addEventListener("resize", function () {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    });
+
+    canvas.addEventListener("dragstart", function (event) {
+        for (var i = 0; i < particles.length; i++) {
+            var particle = particles[i];
+            var distanceX = event.clientX - particle.x;
+            var distanceY = event.clientY - particle.y;
+            var distance = Math.sqrt(distanceX * distanceX + distanceY * distanceY);
+            if (distance < canvas.width / 2) {
+                particle.speedX += (distanceX / distance) * 0.2;
+                particle.speedY += (distanceY / distance) * 0.2;
+            }
+        }
+    });
+
+    // var canvas = document.getElementById("canvas");
+    // var ctx = canvas.getContext("2d");
+
+    // canvas.width = window.innerWidth;
+    // canvas.height = window.innerHeight;
+
+    // var figures = [];
+    // var figureTypes = ["circle", "square", "triangle"];
+
+    // for (var i = 0; i < 3000; i++) {
+    //     var figureType = figureTypes[Math.floor(Math.random() * figureTypes.length)];
+
+    //     if (figureType === "circle") {
+    //         figures.push({
+    //             type: "circle",
+    //             x: Math.random() * canvas.width,
+    //             y: Math.random() * canvas.height,
+    //             radius: Math.random() * 20 + 5,
+    //             color: "rgb(" + Math.floor(Math.random() * 255) + ", " + 1 + ", " + Math.floor(Math.random() * 255) + ")",
+    //             speedX: Math.random() * 2 - 2.5,
+    //             speedY: Math.random() * 2 - 2.5
+    //         });
+    //     } else if (figureType === "square") {
+    //         figures.push({
+    //             type: "square",
+    //             x: Math.random() * canvas.width,
+    //             y: Math.random() * canvas.height,
+    //             size: Math.random() * 20 + 5,
+    //             color: "rgb(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")",
+    //             speedX: Math.random() * 2 - 2.5,
+    //             speedY: Math.random() * 2 - 2.5
+    //         });
+    //     } else if (figureType === "triangle") {
+    //         figures.push({
+    //             type: "triangle",
+    //             x: Math.random() * canvas.width,
+    //             y: Math.random() * canvas.height,
+    //             size: Math.random() * 20 + 5,
+    //             color: "rgb(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")",
+    //             speedX: Math.random() * 2 - 2.5,
+    //             speedY: Math.random() * 2 - 2.5
+    //         });
+    //     }
+    // }
+
+    // function draw() {
+    //     ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    //     for (var i = 0; i < figures.length; i++) {
+    //         var figure = figures[i];
+
+    //         ctx.beginPath();
+
+    //         if (figure.type === "circle") {
+    //             ctx.arc(figure.x, figure.y, figure.radius, 0.1, Math.PI * 2);
+    //         } else if (figure.type === "square") {
+    //             ctx.rect(figure.x - figure.size / 2, figure.y - figure.size / 2, figure.size, figure.size);
+    //         } else if (figure.type === "triangle") {
+    //             ctx.moveTo(figure.x, figure.y - figure.size / 2);
+    //             ctx.lineTo(figure.x + figure.size / 2, figure.y + figure.size / 2);
+    //             ctx.lineTo(figure.x - figure.size / 2, figure.y + figure.size / 2);
+    //         }
+    //         ctx.fillStyle = figure.color;
+    //         ctx.fill();
+
+    //         figure.x += figure.speedX;
+    //         figure.y += figure.speedY;
+
+    //         if (figure.x > canvas.width + figure.radius || figure.x < -figure.radius) {
+    //             figure.speedX = -figure.speedX;
+    //         }
+
+    //         if (figure.y > canvas.height + figure.radius || figure.y < -figure.radius) {
+    //             figure.speedY = -figure.speedY;
+    //         }
+    //     }
+
+    //     requestAnimationFrame(draw);
+    // }
+
+    // requestAnimationFrame(draw);
+
+    // document.addEventListener("mousemove", function (event) {
+    //     for (var i = 0; i < figures.length; i++) {
+    //         var figure = figures[i];
+
+    //         var distanceX = event.clientX - figure.x;
+    //         var distanceY = event.clientY - figure.y;
+    //         var distance = Math.sqrt(distanceX * distanceX + distanceY * distanceY);
+
+    //         if (distance < canvas.width / 7) {
+    //             figure.speedX += (distanceX / distance) * 0.2;
+    //             figure.speedY += (distanceY / distance) * 0.2;
+    //         }
+
+    //     }
+    // });
+</script>
+
+</html>
