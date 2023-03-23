@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+form{
+    width: 70%;
+    padding: 30px;
+    background-color: white;
+    border: 5px solid springgreen;
+    margin: auto;
+    margin-top: 200px;
+}
+
+form > section{
+    margin: 10px;
+}
+label,input,button{
+    display: inline-block;
+    margin: 5px;
+    padding: 3px;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    width: 45%;
+}
+input{
+    width: 60%;
+}
+label{
+    width: 30%;
+}
+input[type=radio],input[type=checkbox]{
+    transform: scale(4,4);
+}
+
+
+select,legend{
+    transform: scale(2,2);
+}
+option{
+    font-size: 3em;
+}
+
+textarea{
+    font-size: 3em;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+input:focus{
+    border-bottom: 6px solid deepskyblue;
+}
+input:invalid{
+    border-bottom: 6px solid red;
+}
+input:valid{
+    border-bottom: 6px solid springgreen;
+}

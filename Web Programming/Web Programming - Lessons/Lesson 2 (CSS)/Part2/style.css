@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border: 1px solid springgreen;
+    margin: auto;
+    margin-top: 100px;
+}
+td{
+    border: 0.5px solid black;
+}
+tr{
+    border: 1px solid springgreen;
+}
+tr:hover{
+    background-color: red;
+    cursor: pointer;
+}
+ol{
+    margin: 100px;
+    list-style: lower-greek;
+}
+
+/* ul{
+    margin: 100px;
+    list-style: square;
+} */
+body{
+    background-color: black;
+}
+
+ul{
+    list-style: none;
+    background-color: springgreen;
+    text-align: center;
+    margin-top: 50px;
+}
+
+ul > li{
+    padding: 0;
+    display: inline-block;
+    border: 5px solid white;
+}
+
+ul > li:hover a{
+    background-color: springgreen;
+    transition:background-color 1s;
+}
+
+ul > li > a{
+    padding: 5px;
+    transition:background-color 1s;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+#myblock{
+    height: 0;
+    background-color: white;
+    transition:height 1s;
+}
+ul:hover #myblock{
+height: 200px;
+transition:height 1s;
+}
