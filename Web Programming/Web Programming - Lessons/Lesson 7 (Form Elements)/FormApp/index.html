@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="myBody">
+
+    <!-- <form>
+    <section>
+        <label for="firstName">FirstName</label>
+        <input type="text" value="" placeholder="Enter Name">
+    </section>
+    <section>
+        <label for="lastName">LastName</label>
+        <input type="text" value="" placeholder="Enter Surname">
+    </section>
+    <section>
+        <button type="submit">Submit</button>
+        <button type="reset">Clear</button>
+    </section>
+</form> -->
+
+
+
+    <!-- <form autocomplete="off">
+        <section>
+            <label> Username</label>
+            <input tabindex="0" required
+            minlength="10" maxlength="30"
+            type="text" placeholder="Enter Username">
+        </section>
+        <section>
+            <label for="age">Age</label>
+            <input tabindex="2" type="number" min="1" max="200" step="1" />
+        </section>
+        <section>
+            <label> Password</label>
+            <input tabindex="3" required type="password" placeholder="Enter Password">
+        </section>
+        <section>
+            <label>Email</label>
+            <input tabindex="4" required type="email" placeholder="Enter Email">
+        </section>
+        <section>
+            <label>Enter Date</label>
+            <input required type="date">
+        </section>
+        <section>
+            <label for="">Enter Color</label>
+            <input required id="input-color" type="color">
+        </section>
+        <section>
+            <input checked id="debit" name="payment" type="radio" value="DEBIT" >
+            <label for="debit">DEBIT</label><br>
+            <input id="credit" name="payment" type="radio" value="CREDIT" >
+            <label for="credit">CREDIT</label>
+        </section>
+        
+        <section>
+            <label for="">English</label>
+            <input type="checkbox" >
+            <label for="">Russian</label>
+            <input type="checkbox" >
+            <label for="">Azerbaijan</label>
+            <input type="checkbox" >
+        </section>
+
+        <section>
+            <label for="cars">Choose a car </label><br>
+            <select name="cars" id="cars">
+                <option value="Volvo">Volvo</option>
+                <option value="Chevrolet">Chevrolet</option>
+                <option value="Ferrari">Ferrari</option>
+                <option value="Mercedes">Mercedes</option>
+                <option value="Maserati">Maserati</option>
+            </select>
+        </section>
+
+        <section>
+            <button tabindex="1" style="width:90%;" type="submit">Submit</button>
+        </section>
+
+
+        <section>
+            <textarea name="message" id="message" cols="30" rows="5"></textarea>
+        </section>
+    </form> -->
+
+
+    <!-- <form>
+        <fieldset>
+            <legend>Personalia</legend>
+            <label for="">FirstName</label>
+            <input type="text" /> <br>
+            <label for="">LastName</label>
+            <input type="text" /> <br>
+            <input type="submit" value="Submit">
+        </fieldset>
+
+    </form> -->
+
+
+    <form >
+        <label for="username">Username</label>
+        <input required minlength="10" maxlength="30" type="text" /><br>
+        <label for="username">Username</label>
+        <input required minlength="10" maxlength="30" type="text" /><br>
+        <button style="width:100%;" type="submit">Submit</button>
+    </form>
+    
+    <script>
+        const colorPicker = document.querySelector('#input-color');
+        const myBody = document.querySelector('#myBody');
+        colorPicker.addEventListener('input', function () {
+            let value = colorPicker.value;
+            console.log(value);
+            myBody.style.backgroundColor = value;
+        });
+    </script>
+
+</body>
+
+</html>

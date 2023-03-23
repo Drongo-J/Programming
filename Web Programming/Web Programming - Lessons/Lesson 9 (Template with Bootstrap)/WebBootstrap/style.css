@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background:url("images/header-bg.jpg") center/cover no-repeat;
+}
+.shadow{
+    box-shadow: 0 0 20px rgba(0, 191, 255, 0.535) !important;
+    border-radius: 6px;
+}

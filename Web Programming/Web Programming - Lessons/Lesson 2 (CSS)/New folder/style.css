@@ -1,0 +1,41 @@
+.box{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(0,0,255,0.4);
+}
+
+.item{
+    background-color: rgba(255,0,0,0.5);
+    display: inline-block;
+    overflow: hidden;
+}
+
+.i-1{
+    border: 5px solid orange;
+}
+
+.i-2{
+    border: 5px solid blue;
+}
+
+
+.item > img{
+    width: 250px;
+    height: 200px;
+    transition-property: width,height;
+    transition-duration: 1s;
+}
+
+
+.item > h1,p{
+    color: white;
+    margin-left: 10px;
+}
+
+
+
+body{
+    background: url("https://wallpaperaccess.com/full/7314.jpg") center/cover no-repeat;
+    background-attachment: fixed;
+}
