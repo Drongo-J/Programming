@@ -1,0 +1,15 @@
+img{
+    width: 650px;
+    height: 550px;
+    margin-left: 0;
+}
+
+.container{
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+    position: relative;
+    display: flex;
+    overflow: hidden;
+}

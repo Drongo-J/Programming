@@ -1,0 +1,7 @@
+.ancestor{
+    display: block;
+    border: 2px solid gray;
+    color: lightgray;
+    padding: 5px;
+    margin: 15px;
+}

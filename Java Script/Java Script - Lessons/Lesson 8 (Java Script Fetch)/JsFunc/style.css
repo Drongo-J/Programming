@@ -1,0 +1,14 @@
+td{
+    margin: 5px;
+    border:1px solid orange !important;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+img{
+    border-radius: 20px;
+    margin: 5px;
+}
