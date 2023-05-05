@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Programming | Task 8 | aykhan.net</title>
+    <link rel="icon" type="image/x-icon"
+    href="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top p-4" id="mainNav">
+        <section class="container">
+            <a class="navbar-brand fs-3 fw-bold text-light" href="https://aykhan.net">AYKHAN.NET</a>
+            <button id="bar" class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <section class="collapse navbar-collapse" id="navbarResponsive">
+                <ul id="menu-items" class="navbar-nav nav nav-pills ms-auto">
+                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded text-light fw-bolder text-center"
+                            href="#portfolio">Portfolio</a></li>
+                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded text-light fw-bolder text-center"
+                            href="#about">About</a></li>
+                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded text-light fw-bolder text-center"
+                            href="#contact">Contact</a></li>
+                </ul>
+            </section>
+        </section>
+    </nav>
+
+    <header class="py-5">
+        <section class="d-flex justify-content-center flex-column py-5 align-items-center container-fluid">
+            <img id="avatar"
+                src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679403993/web-programming/task8/avataaars_tkh86w.svg"
+                alt="Avatar" class="mx-auto my-3 mt-1">
+            <h1 id="header-headline" class="text-light fw-bolder pt-4 text-center w-100 text-uppercase">Start bootstrap
+            </h1>
+            <section class="divider-container d-flex flex-row justify-content-center align-items-center mt-2">
+                <section class="divider-line"></section>
+                <section class="divider-icon mx-auto"><i class="fas fa-star"></i></section>
+                <section class="divider-line"></section>
+            </section>
+            <p id="header-text" class="text-light pt-4 fw-normal text-center">Graphic Artist - Web Designer -
+                Illustrator</p>
+        </section>
+    </header>
+
+    <main>
+        <section id="portfolio" class="pb-5">
+            <section class="d-flex justify-content-center flex-column py-5 align-items-center container-fluid">
+                <h1 id="portfolio-headline" class="fw-bolder pt-3 text-center w-100 text-uppercase">Portfolio</h1>
+                <section id="portfolio-section"
+                    class="divider-container d-flex flex-row justify-content-center align-items-center mt-2">
+                    <section class="divider-line"></section>
+                    <section class="divider-icon mx-auto"><i class="fas fa-star"></i></section>
+                    <section class="divider-line"></section>
+                </section>
+            </section>
+
+            <section
+                class="container p-1 d-flex flex-row flex-wrap w-100 align-items-center justify-content-center gap-4">
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal1"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/cabin_bmenzq.png"
+                        class="card-img-top" alt="Cabin">
+                </section>
+
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal2"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/cake_hhpyw7.png"
+                        class="card-img-top" alt="Cake">
+                </section>
+
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal3"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/circus_qq4s1u.png"
+                        class="card-img-top" alt="Circus">
+                </section>
+
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal4"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/game_avjezu.png"
+                        class="card-img-top" alt="Game">
+                </section>
+
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal5"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/safe_nxp0bg.png"
+                        class="card-img-top" alt="Safe">
+                </section>
+
+                <section class="card m-2" style="width: 25rem;">
+                    <section id="card-caption">
+                        <section data-bs-toggle="modal" data-bs-target="#portfolioModal6"
+                            class="card-caption-content text-center h-100 text-white d-flex align-items-center justify-content-center">
+                            <i class="fas fa-plus fa-4x"></i>
+                        </section>
+                    </section>
+                    <img src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1679213413/web-programming/task8/submarine_ys32dm.png"
+                        class="card-img-top" alt="Submarine">
+                </section>
+            </section>
+        </section>
+
+        <section id="about" class="p-1 px-0">
+            <section class="d-flex justify-content-center flex-column py-5 align-items-center container-fluid my-5">
+                <h1 id="about-headline" class="fw-bolder pt-3 text-center w-100 text-uppercase">About</h1>
+                </h1>
+                <section class="divider-container d-flex flex-row justify-content-center align-items-center mt-2">
+                    <section class="divider-line"></section>
+                    <section class="divider-icon mx-auto"><i class="fas fa-star"></i></section>
+                    <section class="divider-line"></section>
+                </section>
+
+                <section id="about-text" class="d-flex justify-content-center mt-4 flex-wrap fw-normal">
+                    <section class="col-xl-3 col-12 mb-3 ms-auto">
+                        <p class="px-3">
+                            This is a free bootstrap theme created by Start Bootstrap. The
+                            download includes the complete source files including HTML, CSS, and JavaScript as well
+                            as
+                            optional SASS stylesheets for easy customization.
+                        </p>
+                    </section>
+                    <section class="col-xl-3 col-12 mb-3 me-auto">
+                        <p class="px-3">
+                            You can create your own custom avatar for the masthead, change the
+                            icon in the dividers, and add your email address to the contact form to make it fully
+                            functional!
+                        </p>
+                    </section>
+                </section>
+
+                <section class="text-center mt-4">
+                    <a id="download" class="btn btn-xl btn-outline-light p-3" style="border: 2px solid white;"
+                        href="https://startbootstrap.com/theme/freelancer/">
+                        <i class="fas fa-download me-2"></i>
+                        Download Task!
+                    </a>
+                </section>
+            </section>
+        </section>
+
+        <section id="contact" class="p-5">
+            <section class="d-flex justify-content-center flex-column py-5 align-items-center container-fluid">
+                <h1 id="portfolio-headline" class="fw-bolder pt-3 text-center w-100 text-uppercase">Contact Me</h1>
+                <section id="portfolio-section"
+                    class="divider-container d-flex flex-row justify-content-center align-items-center mt-2">
+                    <section class="divider-line"></section>
+                    <section class="divider-icon mx-auto"><i class="fas fa-star"></i></section>
+                    <section class="divider-line"></section>
+                </section>
+            </section>
+
+            <form id="form" class="col-lg-6 m-auto">
+                <div class="form-floating mb-3">
+                    <input class="form-control" id="name" type="text" placeholder="Enter your name..."
+                        data-sb-validations="required" />
+                    <label for="name">Full name</label>
+                    <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                </div>
+                <div class="form-floating mb-3">
+                    <input class="form-control" id="email" type="email" placeholder="name@example.com"
+                        data-sb-validations="required,email" />
+                    <label for="email">Email address</label>
+                    <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                    <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                </div>
+                <div class="form-floating mb-3">
+                    <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890"
+                        data-sb-validations="required" />
+                    <label for="phone">Phone number</label>
+                    <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                </div>
+                <div class="form-floating mb-3">
+                    <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..."
+                        style="height: 10rem" data-sb-validations="required"></textarea>
+                    <label for="message">Message</label>
+                    <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                </div>
+                <button class="btn btn-primary btn-xl p-2 px-5" type="submit">Send</button>
+            </form>
+
+        </section>
+    </main>
+
+    <footer>
+        <section id="footer-start" class="p-5">
+            <section class="container d-flex justify-content-center text-light text-center flex-wrap">
+                <section class="col-lg-4 col-12 m-auto py-4">
+                    <h4 class="text-uppercase mb-4">Location</h4>
+                    <p class="lead mb-0">
+                        2215 John Daniel Drive
+                        <br />
+                        Clark, MO 65243
+                    </p>
+                </section>
+                <section class="col-lg-4 col-12 m-auto py-4" id="socials">
+                    <h4 class="text-uppercase mb-2">Around the Web</h4>
+                    <a class="btn mx-1 btn-outline-light btn-social" href="https://www.youtube.com/@myprojects440"><i
+                            class="fab fa-fw fa-youtube"></i></a>
+                    <a class="btn mx-1 btn-outline-light btn-social" href="https://github.com/Drongo-J/"><i
+                            class="fab fa-fw fa-github"></i></a>
+                    <a class="btn mx-1 btn-outline-light btn-social"
+                        href="http://www.linkedin.com/in/aykhan-ahmadzada-02998724b"><i
+                            class="fab fa-fw fa-linkedin-in"></i></a>
+                    <a class="btn mx-1 btn-outline-light btn-social"
+                        href="https://drive.google.com/drive/u/1/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ"><i
+                            class="fab fa-google-drive"></i></a>
+                </section>
+                <section class="col-lg-4 col-12 m-auto py-4">
+                    <h4 class="text-uppercase mb-4">About Freelancer</h4>
+                    <p class="lead mb-0" id="startbootstrap">
+                        Freelance is a free to use, MIT licensed Bootstrap theme created by
+                        <a href="http://startbootstrap.com">Start Bootstrap</a>.
+                    </p>
+                </section>
+            </section>
+        </section>
+        <section id="footer-end">
+            <p class="text-center p-4 text-light pb-2">Copyright © Aykhan Ahmadzada 2023 - <a
+                    href="https://aykhan.net">aykhan.net</a></p>
+        </section>
+    </footer>
+
+    <section id="portfolio-modals">
+    </section>
+
+    <script src="index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
