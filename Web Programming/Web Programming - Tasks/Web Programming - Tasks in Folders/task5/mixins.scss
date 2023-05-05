@@ -1,0 +1,68 @@
+@mixin link-styles {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: $primary-text-color;
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+
+@mixin section($width: 100%, $padding: 0px, $direction: row, $justify-content:center) {
+    width: $width;
+    align-items: center;
+    display: flex;
+    justify-content: $justify-content;
+    padding: $padding;
+    flex-direction: $direction;
+    flex-wrap: wrap;
+}
+
+@mixin headline-h1 {
+    font-family: 'Cookie', cursive;
+    color: $secondary-color;
+    font-size: 6em;
+    text-align: center !important;
+}
+
+@mixin headline-p {
+    font-weight: lighter !important;
+    font-family: 'Raleway', sans-serif;
+    color: $third-color;
+    font-size: 6em;
+    text-transform: uppercase;
+    margin: 20px;
+    margin-top: 0px;
+}
+
+@mixin paragraph-definer {
+    font-family: 'Raleway', sans-serif;
+    line-height: 33px;
+    font-size: 30px;
+    text-align: left;
+    width: 100%;
+    padding-top: 20px;
+    color: $primary-text-color;
+}
+
+@mixin main-paragraph-style {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    padding: 20px 0px;
+    letter-spacing: 3px;
+    line-height: 20px;
+    color: $primary-text-color;
+}
+
+@mixin common-input-style{
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    height: 33px;
+    padding: 3px 7px;
+    outline: none;
+    width: 60%;
+    min-width: 200px;
+}

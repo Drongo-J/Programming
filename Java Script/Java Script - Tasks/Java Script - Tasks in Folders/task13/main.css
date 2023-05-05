@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+:root {
+    --mainColor: #F46C38;
+    --secondaryColor: #EEDBC1;
+    --bgColor: #101111;
+}
+
+/* Header Start */
+#logo {
+    font-family: 'Sora', sans-serif;
+    color: var(--mainColor);
+    font-size: 2rem;
+}
+
+html {
+    background: #101111;
+}
+
+body {
+    background-color: var(--bgColor) !important;
+}
+
+* {
+    background-color: transparent !important;
+}
+
+header li a {
+    color: var(--secondaryColor) !important;
+}
+
+header li {
+    white-space: nowrap;
+    max-width: 120px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+    color: var(--secondaryColor) !important;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#navbarSupportedContent {
+    margin: 0px 50px;
+}
+
+::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+}
+
+form input {
+    border-color: var(--mainColor) !important;
+    color: var(--secondaryColor) !important;
+    outline: none !important;
+    box-shadow: none !important;
+    margin-left: 20px !important;
+    font-weight: bold !important;
+    border-width: 3px !important;
+}
+
+::placeholder {
+    color: var(--secondaryColor) !important;
+}
+
+form button {
+    border-color: var(--mainColor) !important;
+    color: var(--secondaryColor) !important;
+    font-weight: bold !important;
+    background-color: var(--mainColor) !important;
+}
+
+/* Header End */
+
+/* Main Start */
+
+#sidebarMenu {
+    background-color: #161616 !important;
+    border: 3px solid #272727 !important;
+    border-radius: 0px 5px 5px 0px;
+    padding: 10px;
+    font-family: 'Sora', sans-serif;
+}
+
+#sidebarMenu h6 {
+    color: var(--secondaryColor) !important;
+    margin-bottom: 8px !important;
+}
+
+#genres a {
+    color: #84786C !important;
+}
+
+#genres a:hover {
+    color: var(--secondaryColor) !important;
+}
+
+#movies {
+    background-color: rgba(226, 126, 126, 0.2) !important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start !important;
+}
+
+main {
+    overflow-x: hidden !important;
+    /* background-color: rgba(226, 126, 126, 0.2) !important; */
+}
+
+#movies {
+    box-shadow: inset 0 155px 1330px rgba(0, 0, 0, 0.7);
+    padding: 20px 30px;
+    gap: 20px;
+}
+
+#movie>div {
+    background-color: #161616 !important;
+    border: 3px solid #272727 !important;
+}
+
+#movie img {
+    border-radius: 5px !important;
+    width: 300px;
+    height: 440px;
+}
+
+#movie-year,
+#movie-title{
+    font-weight: bolder;
+    font-family: 'Sora', sans-serif;
+    color: white !important;
+}
+
+#add-favorites{
+    cursor: pointer;
+    color: #DB0F27;
+    transform: scale(1.5);
+    margin-top: 6px;
+    background-color: white;
+    text-transform: capitalize;
+    position: absolute;
+    bottom: 10px;
+}
+
+#movie-plot {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 14;
+    -webkit-box-orient: vertical;
+    font-family: Helvetica,Arial, sans-serif;
+}
+
+#add-favorites-button{
+    display: block;
+    width: 100%;
+    background-color: white;
+    color: white;
+
+}
+
+#titleOfMovies {
+    text-transform: capitalize !important;
+    color: white;
+    text-align: center;
+    width: 100%;
+    line-height: 3rem;
+    font-family: 'Sora', sans-serif;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+/* Main End */
+
+/* Footer Start */
+
+.footer {
+    background: #000 !important;
+    padding: 30px 0px !important;
+    font-family: 'Play', sans-serif !important;
+    text-align: center !important;
+}
+
+.footer .myrow {
+    width: 100% !important;
+    margin: 1% 0% !important;
+    padding: 0.6% 0% !important;
+    color: gray !important;
+    font-size: 0.8em !important;
+}
+
+.footer .myrow a {
+    text-decoration: none !important;
+    color: gray !important;
+    transition: 0.5s !important;
+}
+
+.footer .myrow a:hover {
+    color: #fff !important;
+}
+
+.footer .myrow ul {
+    width: 100% !important;
+}
+
+.footer .myrow ul li {
+    display: inline-block !important;
+    margin: 0px 30px !important;
+}
+
+.footer .myrow a i {
+    font-size: 2em !important;
+    margin: 0% 1% !important;
+}
+
+@media (max-width:720px) {
+    .footer {
+        padding: 5% !important;
+    }
+
+    .footer .myrow a i {
+        margin: 0% 3% !important;
+    }
+
+    #footer-ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin: 10px 0px;
+    }
+}
+
+/* Footer End */

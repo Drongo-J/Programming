@@ -1,0 +1,920 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Raleway:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cookie&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 45px 0px 400px 0px;
+  background: url("assets/bg.png") center/cover no-repeat;
+}
+
+#bar {
+  display: none;
+  margin: 60px;
+  cursor: pointer;
+}
+
+#navigators {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#navigators .first-section {
+  width: 40%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#navigators .first-section a {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  color: #DEE0E2;
+  font-size: 2.5em;
+  text-transform: uppercase;
+}
+#navigators .second-section {
+  width: 60%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#navigators .second-section section {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#navigators .second-section a {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  color: #DEE0E2;
+  font-size: 2.5em;
+  text-transform: uppercase;
+  margin-right: 30px;
+}
+
+.read-more-box {
+  width: 50%;
+  margin: auto;
+  padding: 110px 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-top: 220px;
+  text-align: center;
+}
+.read-more-box h1 {
+  font-family: "Cookie", cursive;
+  color: #2C3A40;
+  font-size: 6em;
+  text-align: center !important;
+}
+.read-more-box p {
+  font-weight: lighter !important;
+  font-family: "Raleway", sans-serif;
+  color: #9d6b22;
+  font-size: 6em;
+  text-transform: uppercase;
+  margin: 20px;
+  margin-top: 0px;
+}
+.read-more-box a {
+  font-family: "Raleway", sans-serif;
+  color: #2C3A40;
+  font-size: 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #feffff;
+  padding: 10px 15px;
+  margin: 20px;
+}
+
+main {
+  background-color: #2C3A40;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+main .s-1 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+main .s-1 section {
+  width: 40%;
+}
+main .s-1 section h1 {
+  font-family: "Raleway", sans-serif;
+  line-height: 33px;
+  font-size: 30px;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  color: #DEE0E2;
+}
+main .s-1 section p {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  color: #DEE0E2;
+  text-align: left !important;
+}
+main .s-1 img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  transform: scale(0.8);
+}
+main .s-2 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 40px 80px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #D6D7D9;
+}
+main .s-2 .s-2-sub {
+  width: 70%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+main .s-2 .s-2-sub .box {
+  padding: 10px;
+  width: 28%;
+}
+main .s-2 .s-2-sub .box .circle-container {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start !important;
+}
+main .s-2 .s-2-sub .box .circle-container img {
+  max-width: 50px;
+  width: 50px;
+  height: 50px;
+}
+main .s-2 .s-2-sub .box h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  padding: 5px 0px;
+  color: #2C3A40;
+}
+main .s-2 .s-2-sub .box p {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 10px 0;
+  color: gray;
+}
+main .s-3 {
+  background: url("assets/bg2.png") center/cover;
+  width: 100%;
+  padding: 95px 175px;
+  height: auto;
+}
+main .s-3 .s-3-sub {
+  height: 100% !important;
+  background-color: rgba(255, 255, 255, 0.7);
+  margin: auto;
+  padding-bottom: 50px !important;
+}
+main .s-3 .s-3-sub .headline {
+  padding-top: 20px !important;
+}
+main .s-3 .s-3-sub .headline h1 {
+  font-family: "Cookie", cursive;
+  color: #2C3A40;
+  font-size: 6em;
+  text-align: center !important;
+}
+main .s-3 .s-3-sub .headline p {
+  font-weight: lighter !important;
+  font-family: "Raleway", sans-serif;
+  color: #9d6b22;
+  font-size: 6em;
+  text-transform: uppercase;
+  margin: 20px;
+  margin-top: 0px;
+  text-align: center;
+}
+main .s-3 .s-3-sub .meals {
+  width: 90% !important;
+  margin: auto;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+main .s-3 .s-3-sub .meals .meal {
+  width: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 300px !important;
+}
+main .s-3 .s-3-sub .meals .meal section {
+  width: 50%;
+  height: 100%;
+}
+main .s-3 .s-3-sub .meals .meal .meal-img img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .s-3 .s-3-sub .meals .meal .meal-description {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+main .s-3 .s-3-sub .meals .meal .meal-description h1 {
+  font-family: "Raleway", sans-serif;
+  line-height: 33px;
+  font-size: 30px;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  color: #DEE0E2;
+  text-transform: uppercase;
+  color: #2C3A40;
+  margin: auto;
+  text-align: center;
+}
+main .s-3 .s-3-sub .meals .meal .meal-description p {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  color: #DEE0E2;
+  width: 75%;
+  color: #2C3A40;
+  margin: auto;
+  color: rgb(48, 71, 81);
+}
+main .s-4 {
+  background: url("assets/bg3.png") center/cover no-repeat;
+  width: 100%;
+  position: relative !important;
+}
+main .s-4 .s-4-sub-1 {
+  background-color: #DEE0E2;
+}
+main .s-4 .s-4-sub-1 #leftDecoration {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+main .s-4 .s-4-sub-1 #rightDecoration {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content {
+  padding: 65px 0px 55px 0px;
+  width: 60%;
+  height: 100%;
+  margin: auto;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content h1 {
+  font-family: "Raleway", sans-serif;
+  line-height: 33px;
+  font-size: 30px;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  color: #DEE0E2;
+  text-transform: uppercase;
+  color: #2C3A40;
+  margin: auto;
+  text-align: center;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content p {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  color: #DEE0E2;
+  width: 75%;
+  color: #2C3A40;
+  margin: auto;
+  color: rgb(48, 71, 81);
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content .circle-container {
+  padding: 25px !important;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center !important;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content .circle-container img {
+  max-width: 50px;
+  width: 50px;
+  height: 50px;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content .content-container {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center !important;
+  width: 50%;
+  margin: auto;
+}
+main .s-4 .s-4-sub-1 .s-4-sub-1-content .content-container h1 {
+  width: 80px !important;
+  font-size: 1em !important;
+  text-transform: none;
+  font-family: "Raleway", sans-serif;
+  line-height: 33px;
+  font-size: 30px;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  color: #DEE0E2;
+  text-align: center !important;
+  color: #2C3A40;
+}
+main .s-4 .s-4-sub-2 {
+  margin-top: 240px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+main .s-4 .s-4-sub-2 .headline {
+  padding: 30px;
+}
+main .s-4 .s-4-sub-2 .headline h1 {
+  font-family: "Cookie", cursive;
+  color: #2C3A40;
+  font-size: 6em;
+  text-align: center !important;
+  margin-bottom: -20px;
+}
+main .s-4 .s-4-sub-2 .headline p {
+  font-weight: lighter !important;
+  font-family: "Raleway", sans-serif;
+  color: #9d6b22;
+  font-size: 6em;
+  text-transform: uppercase;
+  margin: 20px;
+  margin-top: 0px;
+  font-size: 4em;
+  text-align: center;
+}
+main .s-4 .s-4-sub-2 .meals {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90% !important;
+  justify-content: space-between;
+  padding: 30px !important;
+  margin: auto;
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal {
+  margin: auto;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal .img-section {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(255, 255, 255);
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal .img-section img {
+  margin: 23px;
+  margin-top: 30px;
+  transform: scale(1.2);
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal .description {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-left: 40px;
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal .description h1 {
+  font-family: "Raleway", sans-serif;
+  line-height: 33px;
+  font-size: 30px;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  color: #DEE0E2;
+  text-transform: uppercase;
+  color: #2C3A40;
+  margin: auto;
+}
+main .s-4 .s-4-sub-2 .meals .meals-part .menu-meal .description p {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  text-align: left;
+  line-height: 20px;
+  color: rgb(48, 71, 81);
+}
+main .s-4 #img1 {
+  margin: 28px;
+}
+main .s-4 #img2 {
+  margin: 25px;
+  margin-top: 37px;
+}
+main .s-4 #img3 {
+  margin: 26px;
+  margin-top: 27px;
+}
+main .s-5 {
+  background: url("assets/bg4.png") center/cover no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+main .s-6 {
+  width: 80% !important;
+  padding-bottom: 35px;
+}
+main .s-6 .headline {
+  padding: 30px;
+  padding-bottom: 0px !important;
+}
+main .s-6 .headline h1 {
+  font-family: "Cookie", cursive;
+  color: #2C3A40;
+  font-size: 6em;
+  text-align: center !important;
+  color: white;
+  font-weight: 100;
+}
+main .s-6 .form-elements {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100% !important;
+}
+main .s-6 .form-elements form {
+  width: 100% !important;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-wrap: wrap !important;
+}
+main .s-6 .form-elements form section {
+  width: 33%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+main .s-6 .form-elements form section h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+  padding: 5px 0px;
+  color: white;
+  width: 60%;
+  text-align: left;
+}
+main .s-6 .form-elements form section input::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+main .s-6 .form-elements form section input {
+  background-color: transparent;
+  font-family: "Raleway", sans-serif;
+  border: 2px solid white;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  height: 33px;
+  padding: 3px 7px;
+  outline: none;
+  width: 60%;
+  min-width: 200px;
+}
+main .s-6 .form-elements form section select {
+  background-color: transparent;
+  font-family: "Raleway", sans-serif;
+  border: 2px solid white;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  height: 33px;
+  padding: 3px 7px;
+  outline: none;
+  width: 60%;
+  min-width: 200px;
+}
+main .s-6 .form-elements form section select option {
+  color: black;
+  font-size: 16px;
+  padding: 5px;
+  padding-top: 0px;
+}
+main .s-6 .form-elements form section select option:checked {
+  background-color: gray;
+}
+main .s-6 .form-elements form section input[type=submit] {
+  cursor: pointer;
+  text-transform: uppercase;
+}
+main .s-6 .form-elements form section ::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: white;
+  opacity: 1;
+}
+main .s-6 .form-elements form section ::placeholder {
+  /* Most modern browsers support this now. */
+  color: white;
+}
+
+footer {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow: hidden;
+  background-color: #d4d8d9;
+}
+footer section {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+footer section .about {
+  min-width: 540px;
+  width: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+footer section .about section {
+  width: 70%;
+  margin: auto;
+}
+footer section .about section h1 {
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+  font-size: 2em;
+  text-align: left !important;
+}
+footer section .about section p {
+  width: 100%;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  color: #DEE0E2;
+  padding: 15px 0px;
+  color: #2C3A40;
+  text-align: left !important;
+}
+footer section .about section p span {
+  margin: 0px;
+}
+footer section .about section a {
+  margin: 0px;
+  width: 100%;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  padding: 20px 0px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  color: #DEE0E2;
+  padding: 0px !important;
+  color: #9d6b22;
+  text-align: left !important;
+}
+footer section .links {
+  min-width: 540px;
+  width: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  padding: 30px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+footer section .links .links-container {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+footer section .links .links-container section {
+  width: 30%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100% !important;
+}
+footer section .links .links-container section p {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5em;
+  text-align: left;
+  width: 100%;
+  padding-bottom: 10px;
+}
+footer section .links .links-container section a {
+  text-decoration: none;
+  text-align: left;
+  padding: 5px 0px;
+  font-size: 14px;
+  font-family: "Raleway";
+  width: 100%;
+  line-height: 2;
+  color: #2C3A40;
+}
+footer section .links .links-container section a:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 280px) {
+  .read-more-box p,
+  .read-more-box a {
+    font-size: 25px !important;
+  }
+  .s-3-sub .headline p {
+    font-size: 45px !important;
+  }
+  .s-4-sub-2 .headline h1 {
+    font-size: 5em !important;
+  }
+  footer section {
+    width: 45% !important;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 540px) {
+  main {
+    padding: 0px !important;
+    margin: 0 !important;
+  }
+  .s-1 {
+    width: 100% !important;
+  }
+  .s-1 .second-section {
+    width: 100% !important;
+    margin: 0px !important;
+  }
+  .s-1 .second-section img {
+    transform: scale(0.7) !important;
+  }
+  .s-1 .first-section {
+    width: 100% !important;
+    margin: 0px !important;
+  }
+  .s-2 {
+    padding: 0px !important;
+  }
+  .s-2 .s-2-sub {
+    padding: 20px !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+  .s-2 .s-2-sub .circle-container {
+    justify-content: flex-start !important;
+  }
+  .s-2 .s-2-sub * {
+    width: 100% !important;
+  }
+  .s-4-sub-2 .headline p {
+    padding-top: 40px;
+  }
+}
+@media only screen and (max-width: 776px) {
+  .meals-part {
+    width: 100% !important;
+    padding: 0px !important;
+  }
+  .meals-part .description {
+    width: 100% !important;
+    padding: 0px !important;
+    padding-left: 0px !important;
+    margin: 0px !important;
+  }
+  .meals-part .description h1 {
+    margin: 0px !important;
+    padding-left: 0px !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .meals-part .description p {
+    margin: 0px !important;
+    padding-left: 0px !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+}
+@media only screen and (max-width: 1203px) {
+  .meals {
+    padding: 0px !important;
+    margin: auto;
+    margin-bottom: 10px !important;
+  }
+  .meals .meal {
+    padding: 0px !important;
+    margin: 0px !important;
+    width: 100%;
+  }
+  .meals .meal .meal-description h1 {
+    font-size: 24px !important;
+  }
+  .meals .meal .meal-description p {
+    font-size: 12px !important;
+  }
+}
+@media only screen and (max-width: 1303px) {
+  .s-1 {
+    padding: 10px !important;
+  }
+  .s-1 section {
+    width: 80% !important;
+  }
+  .s-1 img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .s-3 {
+    padding: 0px !important;
+  }
+  .s-3 .s-3-sub {
+    padding: 0px !important;
+  }
+  .s-3 .s-3-sub .meals {
+    padding: 0px !important;
+    flex-direction: column !important;
+  }
+  .s-3 .s-3-sub .meals .meal {
+    margin-bottom: 20px !important;
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 966px) {
+  .read-more-box {
+    width: 80%;
+  }
+  .read-more-box p {
+    font-size: 3em;
+  }
+  #rightDecoration,
+  #leftDecoration {
+    display: none;
+  }
+  .s-4-sub-1-content p {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 1360px) {
+  header {
+    padding: 5px 0px 600px 0px;
+  }
+  main .s-1 {
+    flex-direction: column;
+  }
+  .read-more-box {
+    margin-top: 80px !important;
+  }
+  #navigators {
+    background-color: #2C3A40;
+    text-align: left;
+    width: 100% !important;
+  }
+  #navigators section {
+    background: #2C3A40;
+    width: 100% !important;
+  }
+  #navigators .first-section a,
+  #navigators .second-section a {
+    margin: 0px !important;
+    padding: 10px !important;
+    width: 100% !important;
+  }
+  #navigators .first-section a:hover,
+  #navigators .second-section a:hover {
+    background-color: #DEE0E2;
+    color: #2C3A40;
+  }
+  form section {
+    width: 100% !important;
+  }
+  form section h1 {
+    margin: auto !important;
+    width: 100% !important;
+  }
+  form section select,
+  form section input {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 1722px) {
+  .s-4-sub-2 .meals {
+    flex-direction: column !important;
+  }
+  .s-4-sub-2 .meals .meals-part {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    justify-content: center !important;
+  }
+  .s-4-sub-2 .meals .meals-part .description h1 {
+    width: 100%;
+  }
+  .s-4-sub-2 .meals .meals-part .description p {
+    text-align: left !important;
+    width: 100%;
+  }
+}/*# sourceMappingURL=style.css.map */

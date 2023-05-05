@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script | Task 5 | aykhan.net</title>
+    <link rel="icon" type="image/x-icon"
+    href="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header Start -->
+    <header>
+        <section class="headline">
+            <a id="text-logo" href="http://aykhan.net">aykhan.net</a>
+            <a id="task-download-link" href="Java Script - Task.zip">Download Task</a>
+        </section>
+    </header>
+    <!-- Header End -->
+
+    <!-- Main Start -->
+    <main>
+        <h1>Select a day from the calendar and make notes for that day</h1>
+
+        <form>
+            <section id="date-selection">
+                <input id="month-input" type="number" autocomplete="off" name="text" class="input"
+                    placeholder="Month (nth)" required max="12" min="1" maxlength="2">
+                <input id="year-input" type="number" autocomplete="off" name="text" class="input" placeholder="Year"
+                    required min="0" max="3000" maxlength="4">
+            </section>
+
+            <section id="button-section">
+                <button id="generateButton" onclick="generateCalendar()">
+                    <span>Generate Calendar</span>
+                </button>
+            </section>
+
+            <h2 id="date-info"></h2>
+        </form>
+
+        <section class="calendar-wrapper">
+            <section class="calendar">
+
+            </section>
+        </section>
+    </main>
+    <!-- Main End -->
+
+    <!-- Footer Start -->
+    <footer>
+        <p>Copyright © Aykhan Ahmadzada 2023 - <a href="https://aykhan.net"
+                style="text-decoration: underline;">aykhan.net</a></p>
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Modal -->
+    <section id="mymodal" class="modal">
+        <label class="modal__bg" for="modal" onclick="closeModal()"></label>
+        <section class="modal__inner">
+            <section id="modal-header">
+                <h2>My Notes</h2>
+                <label class="modal__close" onclick="closeModal()" for="modal-1"></label>
+            </section>
+            <h1 id="date-for-modal"></h1>
+            <form style="height: 60%;">
+                <section style="display: flex; justify-content: center; height: 100%;">
+                    <textarea spellcheck="false" name="notes" id="notes"
+                        style="width: 95%; margin: auto !important; height: 100%; resize: none;" required>
+                    </textarea>
+                </section>
+                <section id="modal-footer">
+                    <button class="button-30" onclick="closeModal()">Cancel</button>
+                    <button class="button-30" onclick="saveNotes()">Save</button>
+                </section>
+            </form>
+        </section>
+    </section>
+    <!-- Modal -->
+
+    <script src="cookie.js"></script>
+    <script src="index.js"></script>
+    <script src="calendar.js"></script>
+</body>
+
+</html>

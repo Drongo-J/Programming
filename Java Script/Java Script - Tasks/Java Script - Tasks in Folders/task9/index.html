@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script | Task 9 | aykhan.net</title>
+    <link rel="icon" type="image/x-icon"
+        href="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" />
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+        integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+    <!-- Header Start -->
+    <header>
+        <section class="headline">
+            <a id="text-logo" href="http://aykhan.net">aykhan.net</a>
+            <a id="task-download-link" href="Java Script - Task.zip">Download Task</a>
+        </section>
+    </header>
+    <!-- Header End -->
+
+    <!-- Main Start -->
+    <main>
+        <h1>JQuery Task</h1>
+
+        <section class="container">
+            <form id="signup">
+                <h1 id="title">Sign up</h1>
+
+                <section class="input-container">
+                    <label>Name</label>
+                    <input id="input1" type="text" placeholder="Your name" required>
+                </section>
+
+                <section class="input-container">
+                    <label>Email</label>
+                    <input id="input2" type="email" placeholder="example@gmail.com" required>
+                </section>
+
+                <section class="input-container">
+                    <label>Password</label>
+                    <input id="passwordbox" type="password" placeholder="at least 8 characters" required minlength="8">
+                    <section id="password-strength-bg">
+                        <section id="password-strength">
+
+                        </section>
+                    </section>
+                    <p id="level"></p>
+                </section>
+
+                <section id="checkbox-container">
+                    <input id="input3" type="checkbox" required>
+                    I agree with <a href="#terms">Terms</a> and <a href="#policy">Policy</a>
+                </section>
+
+                <button id="sign-up-btn">Sign Up</button>
+
+                <section id="reminder"> 
+                    <p>Already have an account?</p>
+                    <a href="#login">Log in</a>
+                </section>  
+            </form>
+            <form id="login">
+                <h1 id="title">Log in</h1>
+
+                <section class="input-container">
+                    <label>Email</label>
+                    <input id="input4" type="email" placeholder="Your email" required>
+                </section>
+
+                <section class="input-container">
+                    <label>Password</label>
+                    <input id="input5" type="password" placeholder="Your password" required>
+                </section>
+
+                <section id="checkbox-container">
+                    <input type="checkbox" required>
+                    Remember me
+                </section>
+
+                <button id="login-btn">Log in</button>
+
+                <a href="#">Forgot Password?</a>
+
+                <section id="reminder">
+                    <p>Don't have an account?</p>
+                    <a href="#login">Sign Up</a>
+                </section>
+            </form>
+        </section>
+    </main>
+    <!-- Main End -->
+
+    <!-- Footer Start -->
+    <footer>
+        <p>Copyright © Aykhan Ahmadzada 2023 - <a href="https://aykhan.net"
+                style="text-decoration: underline;">aykhan.net</a></p>
+    </footer>
+    <!-- Footer End -->
+    <script src="index.js"></script>
+</body>
+
+</html>

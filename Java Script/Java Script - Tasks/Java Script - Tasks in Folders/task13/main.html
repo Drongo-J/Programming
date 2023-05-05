@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Script | Task 13 | aykhan.net</title>
+    <link rel="icon" type="image/x-icon"
+        href="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" />
+    <link rel="stylesheet" href="main.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+</head>
+</head>
+
+<body>
+    <!-- Header Start -->
+    <header class="container col-md-12 col-sm-12">
+        <nav class="navbar navbar-expand-lg">
+            <section class="container-fluid">
+                <a id="logo" class="navbar-brand" href="#">CRACKLE</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa-sharp fa-solid fa-bars" style="color: #ffffff; transform: scale(1.5);"></i>
+                </button>
+                <section class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <i class="fa-solid fa-video"></i>
+                            <a class="nav-link" href="#movies">Movies</a>
+                        </li>
+                        <li class="nav-item">
+                            <i class="fa-solid fa-heart"></i>
+                            <a class="nav-link active" href="#tv-shows">Favorites</a>
+                        </li>
+                        <li class="nav-item">
+                            <i class="fa-solid fa-plus"></i>
+                            <a class="nav-link active" href="#watchlist">Watchlist</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input id="searchText" class="form-control me-2" type="search" placeholder="Search movie"
+                            aria-label="Search">
+                        <button id="searchBtn" onclick="searchMovie()" class="btn btn-outline-warning"
+                            type="menu">Search</button> 
+                    </form>
+
+                    <!-- <i class="fa-solid fa-user" style="color: #EEDBC1;"></i> -->
+                    <!-- <p id="user-name"></p> -->
+                </section>
+            </section>  
+        </nav>
+    </header>
+    <!-- Header End --> 
+
+    <!-- Main Start -->
+    <main style="overflow-y: hidden;">
+        <section class="row">
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <section class="position-sticky pt-3">
+                    <h6
+                        class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+                        <span onclick="addAllMovies()" style='cursor:pointer; margin-left:10px !important;'>All
+                            Movies</span>
+                    </h6>
+                    <ul class="nav flex-column" id="genres">
+
+                    </ul>
+                </section>
+            </nav>
+            <section id="movies" class="col-md-9 col-lg-10">
+
+            </section>
+            <section id="favorites">
+
+            </section>
+        </section>
+    </main>
+    <!-- Main End -->
+
+    <!-- Footer Start -->
+    <footer class="footer">
+        <section class="footer">
+            <section class="myrow">
+                <a href="https://www.youtube.com/@myprojects440" target="_blank"><i class="fa fa-youtube"></i></a>
+                <a href="https://drive.google.com/drive/u/1/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ"
+                    target="_blank"><i class="fa fa-google-drive"></i></a>
+                <a href="https://github.com/Drongo-J" target="_blank"><i class="fa fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/aykhan-ahmadzada-02998724b/" target="_blank"><i
+                        class="fa fa-linkedin"></i></a>
+            </section>
+            <section class="myrow">
+                <ul id="footer-ul">
+                    <li><a href="#">Contact us</a></li>
+                    <li><a href="#">Our Services</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms & Conditions</a></li>
+                    <li><a href="Java Script - Task.zip">Download Task</a></li>
+                </ul>
+            </section>
+
+            <section class="myrow">
+                <p>Copyright © Aykhan Ahmadzada 2023 - <a href="https://aykhan.net"
+                        style="text-decoration: underline !important;">aykhan.net</a></p>
+            </section>
+        </section>
+    </footer>
+    <!-- Footer End -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+    <script src="js/index.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
