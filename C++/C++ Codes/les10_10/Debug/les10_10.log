@@ -1,0 +1,5 @@
+﻿  les10_10.cpp
+C:\Now\Author\Code\lesson10code\les10_10\les10_10.cpp(27,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Now\Author\Code\lesson10code\les10_10\les10_10.cpp(65,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Now\Author\Code\lesson10code\les10_10\les10_10.cpp(100,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  les10_10.vcxproj -> C:\Now\Author\Code\lesson10code\les10_10\Debug\les10_10.exe

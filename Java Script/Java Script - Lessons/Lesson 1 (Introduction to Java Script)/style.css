@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 200px 0 0 0;
+    height: 73.5vh;
+    text-align: center;
+}
+
+button{
+    margin-top: 100px;
+}
+h1{
+    width: 50%;
+    margin: auto;
+}
+.light-header{
+    box-shadow: 0 0 25px springgreen;
+}
+
+.dark-header{
+    box-shadow: 0 0 35px 30px rgb(0, 0, 97);
+    color: white;
+}
+
+.dark-body{
+    background-color: black;
+    box-shadow: 0 0 35px 30px rgb(0, 0, 97) inset;
+}
+
+.light-body{
+    background-color: white;
+    box-shadow: 0 0 25px springgreen inset;
+}
