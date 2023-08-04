@@ -1,0 +1,10 @@
+1.Join olduqdan sonram join button silinsin
+ve leave room duymesi yaransin
+eger men leave olsam diger otaqdakilere
+bildirish getsin.
+2.Otaqda mesajlashma 
+3.Otaqda Limit Meselesi limit 3 olsun
+4.Universal olsun kod
+cars=['chevrolet','mercedes','maserati']
+button saginda cari son herracda olan qiymeti
+gorunsun

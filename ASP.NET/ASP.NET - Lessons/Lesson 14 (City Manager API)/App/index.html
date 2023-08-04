@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form onsubmit="Login();return false;" id="myform" name="myform">
+        <input type="text" id="username" name="username" />
+        <input type="password" id="password" name="password" />
+        <button type="submit">Login</button>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script>
+
+// var form = document.getElementById("myform");
+// function handleForm(event) { event.preventDefault(); } 
+// form.addEventListener('submit', handleForm);
+
+        function Login() {
+            let form = document.forms['myform'];
+            let username = form['username'].value;
+            let password = form['username'].value;
+            SendLoginRequest(username,password);
+        }
+let token="";
+        function SendLoginRequest(username, password) {
+            let obj = {
+                username: username,
+                password: password
+            };
+            // fetch('https://localhost:7100/api/Auth/login', {
+            //     Method: 'POST',
+            //     Body: obj,
+            // })
+            // .then((d)=>{
+            //     console.log(d);
+            //     token=d;
+            // })
+            // .catch((e)=>{
+            //     console.log(e);
+            // })
+
+            $.ajax({
+                type: "POST",
+                url: "https://localhost:7100/api/Auth/login",                   ///// URL must be specified 
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                data: JSON.stringify(obj), //this class returns a json object
+                cache: false,
+                success: function (result) {
+                    token=result;
+                    console.log(result);
+                },
+                error: function (ex) {
+                    alert(ex.responseText);
+                }
+            });
+        }
+
+    </script>
+</body>
+
+</html>
