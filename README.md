@@ -92,8 +92,4 @@ This repository is a collection of my progress and work on various programming t
 
 If you find any issues with the code or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 Happy coding! 🚀
