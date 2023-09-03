@@ -1,0 +1,4 @@
+Product id,name,price,discount,,description,expireDate
+
+Mehsullar gosterilsin
+vaxti bitmish mehsullar ferqlendirilsin.
