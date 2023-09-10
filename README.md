@@ -19,6 +19,7 @@ Welcome to my GitHub repository for programming lessons! This repository contain
 - [WPF](WPF)
 - [Web Programming](Web%20Programming)
 - [Windows Forms](Windows%20Forms)
+- [React](React)
 
 ## Overview
 
@@ -83,6 +84,10 @@ This repository is a collection of my progress and work on various programming t
 ### Windows Forms
 
 - Windows Forms tasks and projects.
+
+### React
+
+- React tasks and projects.
 
 ### LICENSE
 
