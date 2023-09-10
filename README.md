@@ -5,7 +5,7 @@ Welcome to my GitHub repository for programming lessons! This repository contain
 ## Table of Contents
 
 - [ADO.NET](ADO.NET)
-- [ASP.NET/ASP.NET](ASP.NET/ASP.NET)
+- [ASP.NET](ASP.NET)
 - [C#](C#)
 - [C++](C++)
 - [Coding Books](Coding%20Books)
@@ -29,9 +29,9 @@ This repository is a collection of my progress and work on various programming t
 
 - Folder containing ADO.NET-related tasks, code, and notes.
 
-### ASP.NET/ASP.NET
+### ASP.NET
 
-- Tasks and projects related to ASP.NET and ASP.NET development.
+- Tasks and projects related to ASP.NET.
 
 ### C#
 
